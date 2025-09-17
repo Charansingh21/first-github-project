@@ -1,4 +1,4 @@
 # first-github-project
 This is my first git repository.
 <br>
-Author- Charan rana
+Author- Charan rana( Apna college)
